@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_activity">Pindah Activity(ekspicit intent)</string>
+    <string name="move_with_data">Pindah Activity(kirim data dengan intent)</string>
+    <string name="dial_number">Pindah Activity (implicit intent)</string>
+    <string name="date_reveived">Pindah Activity</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+</resources>
